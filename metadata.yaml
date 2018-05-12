@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2196
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bushnell_Hart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34594#Fugitive-Slaves1619-1865
 gutenberg_issued: '2010-12-07'
 gutenberg_type: Text
 identifiers:
