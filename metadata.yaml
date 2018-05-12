@@ -1,0 +1,33 @@
+_repo: Fugitive-Slaves1619-1865_34594
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McDougall, Marion Gleason
+    gutenberg_agent_id: '37107'
+    url: http://www.gutenberg.org/2009/agents/37107
+  editor:
+    agent_name: Hart, Albert Bushnell
+    alias: Hart, A. B. (Albert Bushnell)
+    birthdate: 1854
+    deathdate: 1943
+    gutenberg_agent_id: '2196'
+    url: http://www.gutenberg.org/2009/agents/2196
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bushnell_Hart
+description: ''
+gutenberg_issued: '2010-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Law and legislation -- United States'
+- !lcsh 'Fugitive slaves -- United States'
+- !lcc 'E300'
+title: Fugitive Slaves (1619-1865)
+url: http://www.gutenberg.org/ebooks/34594
